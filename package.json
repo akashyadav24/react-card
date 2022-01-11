@@ -1,6 +1,7 @@
 {
   "name": "cards",
   "version": "0.1.0",
+  "homepage": "https://akashyadav24.github.io/react-card/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
